@@ -1,2 +1,3 @@
 # gitactiondemo
-demo for github action 
+demo for github action
+explained heroku workflow
