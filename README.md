@@ -1,7 +1,2 @@
 # gitactiondemo
-demo for github action
-explained heroku workflow
-changed stack in heroku to container
-once more change
-changed hereoku settigns
-
+This is the first demo to deploy app in mldemo2
